@@ -1,6 +1,41 @@
-<style>
-#banner{width:1240px;
-background-color: #402F21;
-color: #A5C2E0;
-padding: 10px}
-</style>
+/*
+CSS: element, id, class
+
+selector{
+		property:value;
+}
+*/
+p {
+    font-family: "Arial", Times, serif;
+} 
+body {
+    font-family: "Arial", Times, serif;;
+}
+#container{width: 100%;}
+ul {
+          list-style-type: none;
+          margin: 0;
+          padding: 0;
+          overflow: hidden;
+      }
+      li {
+          float: left;
+      }
+      a:link, a:visited {
+          display: block;
+          width: 400px;
+          font-weight: bold;
+          color: #A5C2E0;
+          background-color: #58826E;
+          text-align: center;
+          padding: 10px;
+          text-decoration: none;
+          text-transform: uppercase;
+      }
+      a:hover, a:active {
+          background-color: #7A991A;
+      }
+ #banner{width:100%;
+background-color: #BFE3C4;
+color: #black;
+padding: 15px}
