@@ -9,7 +9,8 @@ p {
     font-family: "Arial", Times, serif;
 } 
 body {
-    font-family: "Arial", Times, serif;;
+    font-family: "Arial", Times, serif;
+    width: 80%;
 }
 #container{width: 100%;}
 ul {
