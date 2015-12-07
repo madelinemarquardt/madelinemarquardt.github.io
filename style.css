@@ -6,7 +6,7 @@ selector{
 }
 */
 p {
-    font-family: "Arial", Times, serif;
+    font-family: "Arial", Times, serif; font-size: 15px;
 } 
 body {
     font-family: "Arial", Times, serif;
