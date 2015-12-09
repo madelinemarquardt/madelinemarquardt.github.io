@@ -5,6 +5,10 @@ selector{
 		property:value;
 }
 */
+h1{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
 p {
     font-family: "Arial", Times, serif; 
 } 
