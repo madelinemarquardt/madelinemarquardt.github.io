@@ -8,6 +8,7 @@ selector{
 h1{
     font-family: 'Shadows Into Light', cursive;
     text-align: center;
+    font-size: 200%;
 }
 p {
     font-family: "Arial", Times, serif; 
